@@ -21,3 +21,18 @@ Data Modeling
 Data Cleaning and Transformation
 Data Visualization
 
+Repository Structure
+
+.pbix file – Power BI report and data model
+screenshots/ – Dashboard visual previews
+README.md – Project documentation
+
+Usage Instructions
+
+Download the .pbix file from this repository
+Open the file using Power BI Desktop
+Use interactive filters and slicers to explore the dashboard insights
+
+Dashboard Preview
+Screenshots are present in the repository.
+
